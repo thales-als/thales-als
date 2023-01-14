@@ -15,8 +15,8 @@
 
 <div align="left">
     <a href="https://github.com/thales-als">
-        <img height="160em" src="https://github-readme-stats-beryl.vercel.app/api?username=thales-als&show_icons=true&count_private=true&theme=monokai" />
-        <img height="160em" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=thales-als&layout=compact&theme=monokai" />
+        <img height="160em" src="https://github-readme-stats-beryl.vercel.app/api?username=thales-als&show_icons=true&count_private=true&theme=midnight-purple" />
+        <img height="160em" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=thales-als&layout=compact&theme=midnight-purple" />
 </div>
 
 ##
