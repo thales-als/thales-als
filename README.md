@@ -1,8 +1,8 @@
 # Hey, I'm Thales! 😉
 
 - I'm a Junior Software Developer focusing on back-end programming.
-- I'm currently learning Django.
-- I'm looking for my first opportunity as a software developer.
+- I'm currently working with NodeJS, TypeScript, MongoDB and AWS.
+- I'm available for hiring!
 
 # Tech Stack:
 
