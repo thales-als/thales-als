@@ -1,7 +1,7 @@
 ### Hey, I'm Thales! 😉
 
-- I'm a Junior Software Developer focusing on back-end programming.
-- I'm currently working with Python, Django and Django REST Framework.
+- I'm a Junior Software Developer focusing on full-stack programming.
+- I'm currently working with Python, Django, Django REST Framework, JavaScript, Node.js, React.js, PostgreSQL and MongoDB.
 - I'm available for hiring!
 
 You can find me on my [personal page](https://github.com/thales-als) or at the following links:
