@@ -1,7 +1,7 @@
 ### Hey, I'm Thales! 😉
 
 - I'm a Software Developer focusing on back-end programming.
-- I'm currently working with Python, Django, Django REST Framework, PostgreSQL and MongoDB.
+- I'm currently working with Python, Django // Java, Spring // JavaScript, Node.js // MySQL, PostgreSQL, and MongoDB.
 - I'm available for hiring!
 
 You can find me on my [personal page](https://github.com/thales-als) or at the following links:
