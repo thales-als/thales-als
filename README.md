@@ -1,10 +1,9 @@
 ### Hey, I'm Thales! 😉
 
-- I'm a Software Developer focusing on back-end programming.
-- I'm currently working with Python, Django // Java, Spring // JavaScript, Node.js // MySQL, PostgreSQL, and MongoDB.
-- I'm available for hiring!
+- I am a Java back-end developer, specialized in Spring Boot and Spring Cloud, but I also have knowledge in Python, Django, JavaScript, TypeScript, and Node.js.
+- I am available for hiring!
 
-You can find me on my [personal page](https://github.com/thales-als) or at the following links:
+You can find me at the following links:
 
 <div align="left">
     <a href="https://www.instagram.com/xthlsx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
