@@ -1,6 +1,6 @@
 ### Hey, I'm Thales! 😉
 
-- I am a professional software developer with expertise in back-end technologies. My main skills are focused on Java, Spring, Python, and Django. I also have knowledge in JavaScript and C#.
+- I am a professional software developer specialized in back-end technologies. My main skills revolve around Java, Spring, Python, and Django. I also have knowledge of JavaScript and C#.
 - I am open to work!
 
 You can find me at the following links:
