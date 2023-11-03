@@ -1,7 +1,7 @@
 ### Hey, I'm Thales! 😉
 
-- I am a Java back-end developer, specialized in Spring Boot and Spring Cloud, but I also have knowledge in Python, Django, JavaScript, TypeScript, and Node.js.
-- I am available for hiring!
+- I am a professional software development specialist with expertise in back-end technologies. My main skills are focused on Java, Spring, Python, and Django. I also have knowledge in JavaScript and C#.
+- I am open to work!
 
 You can find me at the following links:
 
