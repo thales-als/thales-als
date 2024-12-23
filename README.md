@@ -1,7 +1,6 @@
 ### Hey, I'm Thales! 😉
 
-- Java back-end developer with expertise in the Spring framework, JUnit, and Mockito. I also have knowledge in other technologies.
-- Graduated in Computer Science from Universidade Nove de Julho (Bachelor's degree) and currently pursuing an MBA in Software Engineering at Faculdade Impacta Tecnologia.
+- Graduated in Computer Science from Universidade Nove de Julho (Bachelor's degree) and currently working as a Trainee Software Developer at Almaviva Solutions.
 
 You can find me at the following links:
 
