@@ -1,5 +1,3 @@
-### Hey, I'm Thales! 😉
-
 - Graduated in Computer Science from Universidade Nove de Julho (Bachelor's degree) and currently working as a Trainee Software Developer at Almaviva Solutions.
 
 You can find me at the following links:
